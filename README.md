@@ -58,7 +58,7 @@ options where supported.
 
 ## 📥 Download APK
 
-👉 **[📱 Download Bloatware Remover APK](https://github.com/KSURitam/Bloatware_Remover/releases/tag/Apk🥰)**
+👉 **[📱 Download Bloatware Remover APK](https://github.com/KSURitam/Bloatware_Remover/releases/tag/Apk)**
 
 The APK is hosted on Google Drive for convenient access.
 
