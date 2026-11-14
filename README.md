@@ -285,6 +285,8 @@ to Bloatware Remover.
 
 ---
 
+**Main Developers:** KSURitam & Anshaks
+
 ## ⚠️ Disclaimer
 
 Removing system packages can disable device features, cause
